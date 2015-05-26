@@ -17,7 +17,7 @@ import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
 import org.springframework.stereotype.Service;
 
-@Service("semeruUserService")
+@Service("portifolioUserService")
 public class UserServiceImpl implements UserDetailsService, Serializable {
 
     private static final long serialVersionUID = 1L;

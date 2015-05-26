@@ -1,4 +1,4 @@
-USE semeru_jsf_maven_db;
+USE unopar;
 INSERT INTO ESTADO VALUES
 (1,'ACRE'),
 (2,'ALAGOAS'),
